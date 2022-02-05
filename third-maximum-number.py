@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/third-maximum-number/
+# https://leetcode.com/submissions/detail/634932817/
 
 class Solution:
     def thirdMax(self, nums: List[int]) -> int:
