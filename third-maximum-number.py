@@ -1,5 +1,7 @@
 # https://leetcode.com/problems/third-maximum-number/
 # https://leetcode.com/submissions/detail/634932817/
+# Runtime: 60 ms (beats 57.18 % of python3 submissions)
+# Memory Usage: 14.8 MB (beats 83.36 % of python3 submissions)
 
 class Solution:
     def thirdMax(self, nums: List[int]) -> int:
